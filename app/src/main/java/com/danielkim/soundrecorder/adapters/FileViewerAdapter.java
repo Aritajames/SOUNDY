@@ -29,9 +29,6 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Daniel on 12/29/2014.
- */
 public class FileViewerAdapter extends RecyclerView.Adapter<FileViewerAdapter.RecordingsViewHolder>
     implements OnDatabaseChangedListener{
 
